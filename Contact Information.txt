@@ -1,0 +1,40 @@
+Name: Andrew Brandt
+Github: drafski89
+Email: bran1026
+
+Name: Andrew Ozimek
+Github: ozim6841
+Email: ozim6841
+
+Name: Trevor Montour
+Github: mont0309
+Email: mont0309
+
+Name: Zac Guir
+Github: MyCreativeName
+Email: guir1351
+
+Name: Jacob MacDermaid
+Github: jacobmac96
+Email: macd0919
+
+Name: Kevin Katz
+Github: Altoroin1
+Email: katz0368
+
+Name: Keefe Murphy
+Github: kmBlaine
+Email: murp1263
+
+Name: Amit Hiremath
+Github: AMgit
+Email: hire8746
+
+Name: Kevin Straunch
+Github: OrangeLobster
+Email: stra9649
+
+Name: Kegan Schuchaskie 
+Github: keganfall
+Email: schu0981
+
