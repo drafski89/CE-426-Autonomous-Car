@@ -33,3 +33,7 @@ Power Train
 	Wheel Encoders
 		Kevin Katz
 		Jacob MacDermaid
+		
+Remote Controller
+	Existing system, override with Bluetooth?
+		Andrew Ozimek
