@@ -1,0 +1,35 @@
+Coordinator
+	Github Repo
+	Google Hangouts/Facebook Chat
+		Andrew Brandt
+	
+Controller
+	Lower
+	Higher
+		Keefe Murphy
+
+Sensors
+	Ultrasonic (Longer Range?)
+	Bump
+	Infared
+	Tilt
+		Amit Hiremath
+		Andrew Ozimek
+		Zachary Guir
+
+Mechanics
+	Switches
+		Trevor Montour
+		Kevin Strauch
+
+Electric
+	Batteries
+	Charging
+		Trevor Montour
+		Kegan Schuchaskie
+		
+Power Train
+	Motors: Wheels, Driving
+	Wheel Encoders
+		Kevin Katz
+		Jacob MacDermaid
